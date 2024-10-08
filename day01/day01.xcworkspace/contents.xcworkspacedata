@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:quest3/quest3.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:quest1"
+      name = "quest1">
+      <Group
+         location = "group:quest1"
+         name = "quest1">
+         <FileRef
+            location = "group:RescueZone.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Accident.swift">
+         </FileRef>
+         <FileRef
+            location = "group:main.swift">
+         </FileRef>
+         <FileRef
+            location = "group:DangerLevel.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:quest1.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:quest2"
+      name = "quest2">
+      <FileRef
+         location = "group:quest2.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:quest2"
+         name = "quest2">
+         <FileRef
+            location = "group:main.swift">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
